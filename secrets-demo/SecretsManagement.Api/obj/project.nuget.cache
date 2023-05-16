@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "p7mKJSA2RJ8Ow0Eaorz7nK4oCrFx73NyWTPXSseuLAx6f9G1BDbQ/lAzZRUssckuD/zlbwFIkuUT53AbFVrg0w==",
+  "success": true,
+  "projectFilePath": "C:\\source\\scratchpad\\secrets-demo\\SecretsManagement.Api\\SecretsManagement.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AbhishekMazumder\\.nuget\\packages\\awssdk.core\\3.7.106.12\\awssdk.core.3.7.106.12.nupkg.sha512",
+    "C:\\Users\\AbhishekMazumder\\.nuget\\packages\\awssdk.secretsmanager\\3.7.102.17\\awssdk.secretsmanager.3.7.102.17.nupkg.sha512",
+    "C:\\Users\\AbhishekMazumder\\.nuget\\packages\\awssdk.secretsmanager.caching\\1.0.5\\awssdk.secretsmanager.caching.1.0.5.nupkg.sha512",
+    "C:\\Users\\AbhishekMazumder\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.4\\microsoft.aspnetcore.openapi.7.0.4.nupkg.sha512",
+    "C:\\Users\\AbhishekMazumder\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\AbhishekMazumder\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\2.2.0\\microsoft.extensions.caching.abstractions.2.2.0.nupkg.sha512",
+    "C:\\Users\\AbhishekMazumder\\.nuget\\packages\\microsoft.extensions.caching.memory\\2.2.0\\microsoft.extensions.caching.memory.2.2.0.nupkg.sha512",
+    "C:\\Users\\AbhishekMazumder\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.2.0\\microsoft.extensions.dependencyinjection.abstractions.2.2.0.nupkg.sha512",
+    "C:\\Users\\AbhishekMazumder\\.nuget\\packages\\microsoft.extensions.options\\2.2.0\\microsoft.extensions.options.2.2.0.nupkg.sha512",
+    "C:\\Users\\AbhishekMazumder\\.nuget\\packages\\microsoft.extensions.primitives\\2.2.0\\microsoft.extensions.primitives.2.2.0.nupkg.sha512",
+    "C:\\Users\\AbhishekMazumder\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\AbhishekMazumder\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\AbhishekMazumder\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\AbhishekMazumder\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\AbhishekMazumder\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512",
+    "C:\\Users\\AbhishekMazumder\\.nuget\\packages\\system.componentmodel.annotations\\4.5.0\\system.componentmodel.annotations.4.5.0.nupkg.sha512",
+    "C:\\Users\\AbhishekMazumder\\.nuget\\packages\\system.memory\\4.5.1\\system.memory.4.5.1.nupkg.sha512",
+    "C:\\Users\\AbhishekMazumder\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.1\\system.runtime.compilerservices.unsafe.4.5.1.nupkg.sha512"
+  ],
+  "logs": []
+}
